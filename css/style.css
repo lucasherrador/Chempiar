@@ -1,0 +1,113 @@
+.actividades {
+  margin-top: 25px; }
+
+.main-header h2 {
+  margin-top: 150px;
+  color: solid black; }
+
+.main-header h1 {
+  margin-top: 80px; }
+
+.header__index {
+  animation: jackInTheBox;
+  animation-duration: 2s; }
+
+.header__nosotros {
+  animation: zoomIn;
+  animation-duration: 2s; }
+
+.header__actividades {
+  animation: fadeInLeft;
+  animation-duration: 2s; }
+
+.tarjetas__header h1 {
+  animation: fadeInLeft;
+  animation-duration: 2s; }
+
+.tarjetas__header p {
+  animation: fadeInLeft;
+  animation-duration: 2s; }
+
+.tarjetas__champs {
+  animation: fadeInUpBig;
+  animation-duration: 2s; }
+
+.menu__link {
+  transition: all 1s; }
+
+.menu__link:hover {
+  font-size: 1.5rem;
+  color: solid white; }
+
+.descripcion__uno h3 {
+  color: solid black;
+  text-decoration: underline; }
+
+.descripcion__dos h3 {
+  color: solid black;
+  text-decoration: underline; }
+
+.background-overlay {
+  background: rgba(48, 51, 107, 0.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+.bannerInicio {
+  position: relative;
+  background: url(../../img/viajes.jpg);
+  background-size: cover;
+  height: 400px; }
+
+.bannerNosotros {
+  position: relative;
+  background: url(../../img/nosotros.jpg);
+  background-size: cover;
+  height: 400px; }
+
+.bannerContacto {
+  position: relative;
+  background: url(../../img/banner-contacto.jpg);
+  background-size: cover;
+  height: 400px; }
+
+.bannerActividades {
+  position: relative;
+  background: url(../../img/bannerAct.jpg);
+  background-size: cover;
+  height: 400px; }
+
+.form-control, .btn {
+  border-radius: 0; }
+
+.formularioContacto {
+  padding-left: 100px;
+  padding-right: 100px; }
+
+footer {
+  background-image: linear-gradient(to top, #00023e, #171829); }
+
+#navegador {
+  background-color: #000;
+  background-image: linear-gradient(to top, black, #262120); }
+
+.navbar {
+  box-shadow: 2px 2px 5px #000;
+  opacity: 0.9; }
+
+.navbar .nav-item .nav-link {
+  color: #fff; }
+
+.iconoNav {
+  background-color: white; }
+
+.team {
+  background-image: linear-gradient(to top, #00023e, #2a2c60); }
+
+.slide img {
+  height: 500px;
+  width: 100px; }
+
+.descripcionActividades {
+  margin-bottom: 5px; }
